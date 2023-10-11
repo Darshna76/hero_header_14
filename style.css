@@ -8,6 +8,7 @@ body {
     margin: 3rem 10rem;
     color: #fff;
     font-family: 'DM Sans', sans-serif;
+    overflow: hidden;
 }
 input {
     font-family: 'DM Sans', sans-serif;
